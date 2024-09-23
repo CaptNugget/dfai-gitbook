@@ -23,5 +23,5 @@
   * [Explore](features/custom-characters/explore.md)
 * [Developer Features](features/developer-features/README.md)
   * [Web API Access](features/developer-features/web-api-access.md)
-  * [Telegram Bot](features/developer-features/telegram-bot.md)
+  * [Add @FakeAI\_io\_bot to Your Telegram Channel](features/developer-features/add-fakeai\_io\_bot-to-your-telegram-channel.md)
 * [FakeAI Tokens](features/fakeai-tokens.md)

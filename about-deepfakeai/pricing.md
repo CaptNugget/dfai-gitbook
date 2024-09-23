@@ -1,6 +1,6 @@
 ---
-description: An overview of our pricing models
 icon: tags
+description: An overview of our pricing models
 ---
 
 # Pricing
@@ -21,6 +21,6 @@ Users can hold $FAKEAI tokens at certain amounts to gain access to different tie
 
 **User minutes** give access to all of the standard functions of the Web App and the Telegram Bot, including clip creation and access to the Explore tab.
 
-**Developer minutes** open up access to the[ Web API ](../features/developer-features/web-api-access.md)and all of it's functionality, as well as the ability to add the [FakeAI Telegram bot ](../features/developer-features/telegram-bot.md)to your Telegram server.&#x20;
+**Developer minutes** open up access to the[ Web API ](../features/developer-features/web-api-access.md)and all of it's functionality, as well as the ability to add the [FakeAI Telegram bot ](../features/developer-features/add-fakeai\_io\_bot-to-your-telegram-channel.md)to your Telegram server.&#x20;
 
-**Holding $FAKEAI tokens** allows a certain number of videos per day and a certain number of custom characters for free, as well as access to the [Web API](../features/developer-features/web-api-access.md) and the[ Telegram Bot.](../features/developer-features/telegram-bot.md) All holding rewards require tokens to be locked for at least 24 hours to access.
+**Holding $FAKEAI tokens** allows a certain number of videos per day and a certain number of custom characters for free, as well as access to the [Web API](../features/developer-features/web-api-access.md) and the[ Telegram Bot.](../features/developer-features/add-fakeai\_io\_bot-to-your-telegram-channel.md) All holding rewards require tokens to be locked for at least 24 hours to access.
