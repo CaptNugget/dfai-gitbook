@@ -27,4 +27,3 @@
 * [Custom Character Creation](using-deepfakeai/custom-character-creation.md)
 * [Web API Access](using-deepfakeai/web-api-access.md)
 * [Telegram Bot](using-deepfakeai/telegram-bot.md)
-* [Contact Us](using-deepfakeai/contact-us.md)
