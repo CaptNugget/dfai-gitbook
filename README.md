@@ -1,5 +1,6 @@
 ---
 description: Embrace the power of the blockchain for limitless creation
+icon: info
 ---
 
 # DeepFakeAI At a Glance

@@ -2,13 +2,14 @@
 description: >-
   Preview our social media below, or follow the links to see us across all of
   our platforms!
+icon: threads
 ---
 
 # Official Social Media
 
 <details>
 
-<summary>Social Media Links</summary>
+<summary>Official Links</summary>
 
 Instagram: [https://www.instagram.com/fakeai.io/](https://www.instagram.com/fakeai.io/)
 

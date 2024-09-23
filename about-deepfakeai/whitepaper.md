@@ -1,4 +1,13 @@
+---
+description: The tech behind the service
+icon: scroll
+---
+
 # Whitepaper
+
+The whitepaper gives more technical details of the service, for those who want a small peek behind the curtain
+
+You can also access our whitepaper in an easy to read viewer [here](https://fakeai.io/whitepaper), or download it [here.](https://fakeai.io/whitepaper\_2.pdf)
 
 <figure><img src="../.gitbook/assets/download.png" alt=""><figcaption></figcaption></figure>
 
