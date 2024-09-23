@@ -4,6 +4,10 @@ description: Jump right into creating your own deepfakes
 
 # Creating Your First Clip
 
+{% hint style="info" %}
+Clip creation is free through the month of November! Minutes purchasing is not currently necessary. Click [here](https://x.com/DeepFakeAI\_/status/1837921238901023230) for more details and a chance to win our clip contest!
+{% endhint %}
+
 To quickly create a deepfake clip, you can use the WebAPI to access the service
 
 1. Head to the [Web App Dashboard](https://app.fakeai.io/) to get started
