@@ -25,8 +25,3 @@
   * [Web API Access](features/developer-features/web-api-access.md)
   * [Add @FakeAI\_io\_bot to Your Telegram Channel](features/developer-features/add-fakeai\_io\_bot-to-your-telegram-channel.md)
 * [FakeAI Tokens](features/fakeai-tokens.md)
-
-## Future Pages
-
-* [Zero Shot (instant voice cloning)](future-pages/zero-shot-instant-voice-cloning.md)
-* [Professional Voice](future-pages/professional-voice.md)
