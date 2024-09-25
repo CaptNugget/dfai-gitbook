@@ -5,7 +5,7 @@ description: Embrace the power of generative AI for limitless creation
 
 # DeepFakeAI At a Glance
 
-DeepFakeAI is a cloud-based deepfake clip creation solution that has revolutionized the way that everyday users can access the power of generative AI.&#x20;
+DeepFakeAI is a cloud-based deepfake clip creation solution that has revolutionized the way that everyday users can access the power of generative AI. It is accessible through our Web App as well as the Telegram bot
 
 #### Easy
 
@@ -21,4 +21,8 @@ With a robust selection of curated characters and an [ever-expanding community c
 
 #### Customizable
 
-With the Custom Character option, including the new Instant Voice Cloning model,&#x20;
+With the [Custom Character](features/custom-characters/) option, including the new Instant Voice Cloning model, you can create your own trained model of whoever you'd like with speed and ease.
+
+#### Integrable
+
+By utilizing our [Developer Features](features/developer-features/), you can invite the DeepFakeAI bot to your Telegram group, or even embed the Web App right into your own site.&#x20;
