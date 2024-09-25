@@ -1,8 +1,24 @@
 ---
-description: Embrace the power of the blockchain for limitless creation
 icon: info
+description: Embrace the power of generative AI for limitless creation
 ---
 
 # DeepFakeAI At a Glance
 
-DeepFakeAI aims to grant anyone access to the power of deepfake technology, utilizing the blockchain to create a robust, cloud-based service that can quickly generate clips according to it’s users desires. These clips are generated through text submitted by the user and a selected ”Character” on the site, which can be one of the pre-selected characters curated by the service or a character generated through a user’s own video and audio data. Available through a web app, web API or telegram bot, the service allows the generation of as many clips as users require.
+DeepFakeAI is a cloud-based deepfake clip creation solution that has revolutionized the way that everyday users can access the power of generative AI.&#x20;
+
+#### Easy
+
+You can jump straight into clip creation in minutes by following our [Quickstart Guide.](features/quickstart-guide/) No software, no downloads, just a seamless web interface.&#x20;
+
+#### Fast
+
+Clips take from a few minutes to a few seconds to generate, allowing rapid clip creation on demand.
+
+#### Versatile
+
+With a robust selection of curated characters and an [ever-expanding community collection](features/custom-characters/explore.md), you can find the right character for any usage.
+
+#### Customizable
+
+With the Custom Character option, including the new Instant Voice Cloning model,&#x20;
