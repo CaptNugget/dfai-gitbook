@@ -10,7 +10,6 @@ description: An overview of our pricing models
 Cryptocurrency can be used to purchase **minutes**, which can in turn be used to access the features of the DeepFakeAI service. The features include:
 
 * Clip creation via the Web App, Telegram Bots or the Web API
-* Use of the FakeAI Bot
 * Character creation
 * Access to the Web API to embed the service in your website
 * Creation of your own Bot to host on your servers
@@ -26,6 +25,6 @@ Users can hold $FAKEAI tokens at certain amounts to gain access to different tie
 
 
 
-**Purchasing minutes** gives access to all of the standard features of the DeepFakeAI service. This includes the Web App and all of it's features, the FakeAI Telegram Bot, the ability to create custom telegram bots, and access to the Web API.
+**Purchasing minutes** gives access to all of the standard features of the DeepFakeAI service. This includes the Web App and all of it's features, the ability to create  and use custom telegram bots, and access to the Web API.
 
 **Holding $FAKEAI tokens** allows the creation of a certain number of videos per day for free, as well as all of the features available with purchased minutes[.](../features/advanced-features/add-fakeai_io_bot-to-your-telegram-channel.md) Some holding rewards require tokens to be locked for at least 24 hours to access.

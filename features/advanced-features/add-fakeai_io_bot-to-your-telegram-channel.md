@@ -1,5 +1,7 @@
 ---
 description: Bring DeepFakeAI to your telegram channel and share the fun!
+hidden: true
+noIndex: true
 ---
 
 # Add @FakeAI\_io\_bot to Your Telegram Channel

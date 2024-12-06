@@ -16,7 +16,7 @@
   * [Creating Your First Clip](features/quickstart-guide/creating-your-first-clip.md)
 * [Clip Creation](features/clip-creation/README.md)
   * [Using the Web App](features/clip-creation/using-the-web-app.md)
-  * [Using the Telegram Bot](features/clip-creation/using-the-telegram-bot.md)
+  * [Using Telegram Bots](features/clip-creation/using-telegram-bots.md)
 * [Custom Characters](features/custom-characters/README.md)
   * [Creating and Using Custom Characters](features/custom-characters/creating-and-using-custom-characters.md)
   * [Tips and Tricks](features/custom-characters/tips-and-tricks.md)

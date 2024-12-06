@@ -2,7 +2,7 @@
 description: A text-based approach to video creation
 ---
 
-# Using the Telegram Bot
+# Using Telegram Bots
 
 1.  Navigate to the Web App dashboard at [app.fakeai.io](https://app.fakeai.io/) \
 
@@ -25,8 +25,8 @@ description: A text-based approach to video creation
 
     <mark style="background-color:red;">**Important: If you do not link your Telegram account, you cannot use the Telegram bot**</mark>
 5. Open Telegram signed into your linked account and navigate to
-   1. A group chat where the bot as been added (@FakeAI\_io\_bot) or
-   2. A new chat directly with the bot
+   1. A group chat where a FakeAI bot as been added or
+   2. A new chat directly with a FakeAI bot
 6. Use a command to create a new clip
    1. You can use `/say[character name]`` `_`text you want to be said`_ to create a clip of any character available saying that text. \
       Ex: `/saytate I love DeepFakeAI` will create a clip of Andrew Tate saying "I love DeepFakeAI"
