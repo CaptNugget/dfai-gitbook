@@ -14,6 +14,8 @@ Cryptocurrency can be used to purchase **minutes**, which can in turn be used to
 * Access to the Web API to embed the service in your website
 * Creation of your own Bot to host on your servers
 * The Explore tab, and the custom characters created by our community
+
+Minutes are currently priced at $2 per minute
 {% endtab %}
 
 {% tab title="Holding FakeAI" %}
