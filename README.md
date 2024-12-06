@@ -1,6 +1,6 @@
 ---
 icon: info
-description: Embrace the power of generative AI for limitless creation
+description: Embrace the power of the blockchain for limitless creation
 ---
 
 # DeepFakeAI At a Glance
@@ -26,3 +26,4 @@ With the [Custom Character](features/custom-characters/) option, including the n
 #### Integrable
 
 By utilizing our [Developer Features](features/developer-features/), you can invite the DeepFakeAI bot to your Telegram group, or even embed the Web App right into your own site.&#x20;
+
