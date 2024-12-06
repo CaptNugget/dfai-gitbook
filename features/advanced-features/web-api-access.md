@@ -4,12 +4,7 @@ description: Integrate DeepFakeAI into your online spaces
 
 # Web API Access
 
-{% hint style="info" %}
-In order to use the Web API, you need to gain access to Developer Features.\
-See more info [here.](./)
-{% endhint %}
-
-If you have access to the Developer features, you can use the Web App to generate API keys and utilize the DeepFakeAI Web API in your own online spaces. This allows for a number of implementations that can give your space a unique set of features for your users.
+You can use the Web App to generate API keys and utilize the DeepFakeAI Web API in your own online spaces. This allows for a number of implementations that can give your space a unique set of features for your users.
 
 To generate your API is simple:
 

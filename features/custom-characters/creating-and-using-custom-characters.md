@@ -36,7 +36,7 @@ Tip: The quality of these files directly impacts the accuracy and realism of you
 
 Once your files are ready, visit the DeepFakeAI platform at app.fakeai.io.
 
-Log In: Navigate to the “Custom” section of the website. You can log in using various methods, including email, social media accounts, and traditional username/password options. These options ensure easy and secure access for everyone. If you prefer, you can also log in using your crypto wallet on the Ethereum (ETH) blockchain for seamless access. Create Your Character: After logging in, you’ll be prompted to enter a name for your new deepfake character. This name will be visible on your character list once the creation process begins.
+Log In: Navigate to the “Create” section of the website. You can log in using various methods, including email, social media accounts, and traditional username/password options. These options ensure easy and secure access for everyone. If you prefer, you can also log in using your crypto wallet on the Ethereum (ETH) blockchain for seamless access. Create Your Character: After logging in, you’ll be prompted to enter a name for your new deepfake character. This name will be visible on your character list once the creation process begins.
 
 ### Step 3: Payment and Upload
 

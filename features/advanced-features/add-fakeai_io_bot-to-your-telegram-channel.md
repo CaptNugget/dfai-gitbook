@@ -6,8 +6,8 @@ description: Bring DeepFakeAI to your telegram channel and share the fun!
 
 Adding the FakeAI bot to your Telegram group is simple.
 
-1. Gain access to Developer Features by either buying Developer Minutes or holding FakeAI tokens. More details on this can be found in the [Pricing section.](../../about-deepfakeai/pricing.md)
-2.  You will be given a verification key once you have gained access. This key is available to view under the **Developer** section of the **Buy** tab.\
+1. Gain access by either buying minutes or holding FakeAI tokens. More details on this can be found in the [Pricing section.](../../about-deepfakeai/pricing.md)
+2.  You will be given a verification key once you have gained access. This key is available to view under the **Bots** tab.\
 
 
     <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>The tab where your code will appear</p></figcaption></figure>

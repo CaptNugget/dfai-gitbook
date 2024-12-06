@@ -25,5 +25,5 @@ With the [Custom Character](features/custom-characters/) option, including the n
 
 #### Integrable
 
-By utilizing our [Developer Features](features/advanced-features/), you can invite the DeepFakeAI bot to your Telegram group, or even embed the Web App right into your own site.&#x20;
+By utilizing our [Advanced Features, ](features/advanced-features/)you can invite the DeepFakeAI bot to your Telegram group, or even embed the Web App right into your own site.&#x20;
 
