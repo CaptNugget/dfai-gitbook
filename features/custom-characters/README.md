@@ -5,14 +5,6 @@ description: Show us what you can do and create clips of whoever you can dream o
 
 # Custom Characters
 
-{% hint style="info" %}
-You can now generate DeepFakeAI videos for FREE until the end of November! <img src="https://abs-0.twimg.com/emoji/v2/svg/1f680.svg" alt="🚀" data-size="line">
-
-During this two-month period, you have the opportunity to win up to $1,000 in our DeepFakeAI contest on X!
-
-[Follow this link for more details](https://x.com/DeepFakeAI\_/status/1837921238901023230)
-{% endhint %}
-
 Custom characters present the opportunity to go beyond the initial offerings of the DeepFakeAI character list and contribute to an ever-growing pool of community creations!&#x20;
 
 * For more information on the character creation process and how to use them, click [here.](creating-and-using-custom-characters.md)

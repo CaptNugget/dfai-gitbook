@@ -32,4 +32,6 @@ description: A text-based approach to video creation
       Ex: `/saytate I love DeepFakeAI` will create a clip of Andrew Tate saying "I love DeepFakeAI"
    2. You can use `/ask[character name]`` `_`question you want answered`_ to create a clip of any character answering a question of your choice.\
       Ex: `/asktate What do you think about DeepFakeAI` will generate a clip of Andrew Tate giving his opinion on DeepFakeAI.
+   3. **You can add subtitles to your clip by adding the \_s suffix to the command**. \
+      Ex: `/saytate_s I love DeepFakeAI` will create a clip of Andrew Tate saying "I love DeepFakeAI" with subtitles included in the clip.
 7. Enjoy your newly generated clip! The bot will send a message in the channel you are in containing the generated clip, which can be downloaded and shared however you'd like.

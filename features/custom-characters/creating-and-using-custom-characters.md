@@ -42,7 +42,7 @@ Log In: Navigate to the “Custom” section of the website. You can log in usin
 
 Now that your character is named, it’s time to proceed with the payment and upload your files:
 
-Payment: Creating a custom deepfake character costs approximately $25. You can pay using various methods, including credit card and other fiat options. If you prefer, payment can also be made in $ETH. The price may vary, but it is designed to be affordable and accessible to all users.
+Payment: Creating a custom deepfake character using the Zero-Shot Model is free, however due to the resources required for the Professional Voice option, Professional Cloning costs  $25. You can pay using your cryptocurrency wallet. The price may vary, but it is designed to be affordable and accessible to all users.
 
 Upload Files: Once payment is completed, you’ll be able to upload your audio file, video, and a detailed description of your character. This description is essential as it defines the character’s personality, tone, and nature. The platform also allows you to choose whether your character will be public or private.
 

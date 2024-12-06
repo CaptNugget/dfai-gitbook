@@ -13,6 +13,5 @@ The current road-map for DeepFakeAI is the following:
 * Improvement of the custom Character option through further refinement of the automated Character creation process
 * Multilingual support
 * Audial emotion for characters, to add extra nuance to created clips
-* Subtitle options for clip creation
 
 These objectives continue to drive the DeepFakeAI team to improve the service, and there is no limit to the possibilities in the future.
