@@ -7,8 +7,8 @@ description: Our plans for the future.
 
 The current road-map for DeepFakeAI is the following:
 
-* Further optimizations to ease of use and efficiency of the web app, web API and Telegram bot
-* Introduction of the DeepFakeAI bot to new platforms, to expand use-cases across multiple social media sites
+* Further optimizations to ease of use and efficiency of the web app, web API and Telegram bots
+* Introduction of DeepFakeAI bost to new platforms, to expand use-cases across multiple social media sites
 * Continued expansion of the Character pool with input from the DeepFakeAI community
 * Improvement of the custom Character option through further refinement of the automated Character creation process
 * Multilingual support

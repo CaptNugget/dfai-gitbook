@@ -10,6 +10,10 @@ description: >-
 Much of the information on this page is sourced from the DeepFakeAI blog. To read more of our posts, visit [blog.fakeai.io](https://blog.fakeai.io/)
 {% endhint %}
 
+{% hint style="warning" %}
+Note: Professional Voice Cloning is not yet released, this page will be updated when the feature is ready for public use
+{% endhint %}
+
 In this guide, we’ll explore how to use DeepFakeAI’s special feature to create custom deepfake characters. You’ll learn to prepare your media files, access the platform, and manage the creation process from start to finish.
 
 Whether for creative projects, marketing campaigns, or personal exploration, this guide will help you navigate the process with ease.
