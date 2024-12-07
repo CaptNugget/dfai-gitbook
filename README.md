@@ -5,7 +5,7 @@ description: Embrace the power of the blockchain for limitless creation
 
 # DeepFakeAI At a Glance
 
-DeepFakeAI is a cloud-based deepfake clip creation solution that has revolutionized the way that everyday users can access the power of generative AI. It is accessible through our Web App as well as the Telegram bot
+DeepFakeAI is a cloud-based deepfake clip creation solution that has revolutionized the way that everyday users can access the power of generative AI. It is accessible through our Web App as well as Telegram bots.
 
 #### Easy
 
