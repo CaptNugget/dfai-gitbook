@@ -4,7 +4,7 @@ description: Jump right into creating your own deepfakes
 
 # Creating Your First Clip
 
-To quickly create a deepfake clip, you can use the WebAPI to access the service
+To quickly create a deepfake clip, you can use the Web App to access the service.
 
 1. Head to the [Web App Dashboard](https://app.fakeai.io/) to get started
 2. Click the **Login** button and choose your preferred login method
